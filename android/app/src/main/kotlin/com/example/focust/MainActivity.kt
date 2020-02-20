@@ -1,4 +1,4 @@
-package com.example.focust
+package com.flystlab.focust
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

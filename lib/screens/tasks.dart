@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:focust/entities/task.dart';
+import 'package:getflutter/getflutter.dart';
 
 class TasksScreen extends StatefulWidget {
   @override
@@ -20,8 +21,10 @@ class _TasksScreenState extends State<TasksScreen> {
     return ListView.builder(
       itemCount: _tasks.length,
       itemBuilder: (BuildContext context, int index) {
-        return ListTile(
+        return GFListTile(
           title: Text(_tasks[index].content),
+          subtitleText: 'Lorem ipsum',
+          icon: Icon(Icons.favorite),
         );
       },
     );

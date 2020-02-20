@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "670778040580",
+    "firebase_url": "https://focust-63987.firebaseio.com",
+    "project_id": "focust-63987",
+    "storage_bucket": "focust-63987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670778040580:android:8ade9a7f07ccdef241f051",
+        "android_client_info": {
+          "package_name": "com.flystlab.focust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670778040580-2ll5q73rfr78ok7qoiektttje0msl5rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfjqgTbII8F7uhdDzuuMu-c7sPfScX5cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670778040580-2ll5q73rfr78ok7qoiektttje0msl5rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
